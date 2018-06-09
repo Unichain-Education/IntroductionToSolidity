@@ -1,6 +1,8 @@
 # IntroductionToSolidity
 
 Here we will put the code-samples used for the workshop
+The slides of the workshop is available at:
+<a>https://docs.google.com/presentation/d/1tbqDZG-_m8Or02McL3tENg4nlE1-G0hMOKRLxItUoDY/edit?usp=sharing</a>
 
 <h2>ERC_20.sol</h2>
 ERC_20 is a standard for implementing "fungible" tokens on the Ethereum Platform. To be a true ERC_20 token, one have to implement the agreed set of actions as defined by the ERC20Interface. <br>
